@@ -63,11 +63,13 @@ namespace CSharpOpenGL {
         {
             GL.Clear(ClearBufferMask.ColorBufferBit);
             GL.BindVertexArray(_vertexArrayObject);
-            // Note: The matrices we'll use for transformations are all 4x4.
-            // We start with an identity matrix. This is just a simple matrix that doesn't move the vertices at all.
             var transform = Matrix4.Identity;
+            //Primero hacemos que se traslade
             transform *= Matrix4.CreateTranslation(0.5f, -0.5f, 0.0f);
+            //Luego hacemos que rote
             transform *= Matrix4.CreateRotationZ((float)GLFW.GetTime());
+            //Entonces está trasladando y rotando en cada frame
+            //Si lo invertimos lo trasladará uan vez y lo dejará rotando
             
             _texture.Use();
             _texture2.Use(TextureUnit.Texture1);
