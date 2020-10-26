@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "KY4Bp1XX+KAclP2Iak/UdIUK6ldPuhXpm36pA4EAkMAbkSen4NE62fr7RZ2lxluGnusfCQHbcTqdcr5JCIP0fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maqui\\Documents\\CSharpOpenGL\\CSharpOpenGL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maqui\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0-rc.2.20475.5\\microsoft.netcore.platforms.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0-rc.2.20475.5\\microsoft.win32.systemevents.5.0.0-rc.2.20475.5.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk\\4.0.6\\opentk.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.compute\\4.0.6\\opentk.compute.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.core\\4.0.6\\opentk.core.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.graphics\\4.0.6\\opentk.graphics.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.input\\4.0.6\\opentk.input.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.mathematics\\4.0.6\\opentk.mathematics.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.openal\\4.0.6\\opentk.openal.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.windowing.common\\4.0.6\\opentk.windowing.common.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.windowing.desktop\\4.0.6\\opentk.windowing.desktop.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.0.6\\opentk.windowing.graphicslibraryframework.4.0.6.nupkg.sha512",
+    "C:\\Users\\maqui\\.nuget\\packages\\system.drawing.common\\5.0.0-rc.2.20475.5\\system.drawing.common.5.0.0-rc.2.20475.5.nupkg.sha512"
+  ],
+  "logs": []
+}
